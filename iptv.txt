@@ -1,7 +1,6 @@
-央视频道2025/03/16 18:28更新,#genre#
+央视频道2025/03/17 10:06更新,#genre#
 
 卫视频道,#genre#
-青海卫视,http://59.32.97.174:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -78,7 +77,6 @@
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 河南频道,#genre#
 广东频道,#genre#
-广东少儿,http://59.32.97.174:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 上海频道,#genre#
 湖南频道,#genre#
 山东频道,#genre#
