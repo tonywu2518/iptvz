@@ -1,6 +1,10 @@
-央视频道2025/03/17 10:06更新,#genre#
+央视频道2025/03/17 18:31更新,#genre#
+CCTV8,http://36.44.157.183:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://36.44.157.183:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://36.44.157.183:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
+湖北卫视,http://36.44.157.183:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
