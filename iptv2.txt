@@ -1,7 +1,9 @@
-央视频道2025/04/28 19:10点更新,#genre#
-CCTV8,http://221.193.168.244:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+央视频道2025/04/29 10:03点更新,#genre#
+CCTV4,http://221.193.168.172:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://221.193.168.43:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
+江苏卫视,http://221.193.168.172:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 上海频道,#genre#
 湖南频道,#genre#
 山东频道,#genre#
