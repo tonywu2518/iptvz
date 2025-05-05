@@ -1,19 +1,9 @@
-央视频道2025/05/04 18:26点更新,#genre#
-CCTV2,http://221.193.168.148:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://221.193.168.148:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://221.193.168.68:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://221.193.168.68:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://221.193.168.86:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+央视频道2025/05/05 10:07点更新,#genre#
+CCTV3,http://221.193.168.68:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://221.193.168.68:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
-内蒙古卫视,http://221.193.168.68:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://221.193.168.68:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://221.193.168.68:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://221.193.168.68:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://221.193.168.86:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://221.193.168.68:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://221.193.168.68:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 上海频道,#genre#
 湖南频道,#genre#
 山东频道,#genre#
