@@ -1,6 +1,6 @@
-央视频道2025/05/18 18:26点更新,#genre#
-CCTV3,http://221.193.168.3:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://221.193.168.3:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+央视频道2025/05/19 10:10点更新,#genre#
+CCTV8,http://14.212.185.146:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://221.193.168.76:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
 上海频道,#genre#
@@ -20,5 +20,6 @@ CCTV4,http://221.193.168.3:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&au
 湖北频道,#genre#
 浙江频道,#genre#
 港澳台,#genre#
+TVB星河,http://14.212.185.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆频道,#genre#
 其他频道,#genre#
