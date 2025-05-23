@@ -1,6 +1,16 @@
-央视频道2025/05/23 10:14更新,#genre#
+央视频道2025/05/23 18:31更新,#genre#
+CCTV13,http://183.131.246.250:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://183.131.246.250:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
+云南卫视,http://119.125.134.150:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://119.125.134.150:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://183.131.246.250:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://183.131.246.250:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://119.125.134.150:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://183.131.246.250:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://119.125.134.150:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://119.125.134.150:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -77,6 +87,8 @@
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 河南频道,#genre#
 广东频道,#genre#
+客家生活,http://119.125.134.150:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江台,http://119.125.134.150:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 上海频道,#genre#
 湖南频道,#genre#
 山东频道,#genre#
@@ -91,5 +103,9 @@
 江苏频道,#genre#
 湖北频道,#genre#
 港澳台,#genre#
+明珠台,http://119.125.134.150:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆频道,#genre#
 其他频道,#genre#
+CETV1,http://119.125.134.150:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV4,http://119.125.134.150:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+老故事,http://119.125.134.150:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
