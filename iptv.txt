@@ -1,23 +1,14 @@
-央视频道2025/05/24 10:08更新,#genre#
-CCTV3,http://183.131.246.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+央视频道2025/05/24 18:28更新,#genre#
 
 卫视频道,#genre#
-云南卫视,http://119.125.134.150:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-厦门卫视,http://119.125.134.150:9901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://119.125.134.150:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://183.131.246.250:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://119.125.134.150:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://119.125.134.150:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://119.125.134.150:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://183.131.246.250:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://119.125.134.150:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视,http://125.42.148.143:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://125.42.148.143:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://119.125.134.150:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://183.131.246.250:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://119.125.134.150:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://125.42.148.143:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://119.125.134.150:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://125.42.148.143:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://119.125.134.150:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://119.125.134.150:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://119.125.134.150:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://119.125.134.150:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://183.131.246.250:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -94,11 +85,11 @@ CCTV3,http://183.131.246.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 河南频道,#genre#
 广东频道,#genre#
-客家生活,http://119.125.134.150:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://119.125.134.150:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://119.125.134.150:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+现代教育,http://119.125.134.150:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 上海频道,#genre#
 湖南频道,#genre#
-金鹰卡通,http://125.42.148.143:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 山东频道,#genre#
 河北频道,#genre#
 山西频道,#genre#
@@ -106,21 +97,11 @@ CCTV3,http://183.131.246.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&
 广西频道,#genre#
 吉林频道,#genre#
 内蒙古频道,#genre#
-内蒙古,http://119.125.134.150:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁频道,#genre#
 黑龙江频道,#genre#
 江苏频道,#genre#
 湖北频道,#genre#
 港澳台,#genre#
-凤凰中文,http://119.125.134.150:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-明珠台,http://119.125.134.150:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-翡翠台,http://119.125.134.150:9901/tsfile/live/faacts/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆频道,#genre#
 其他频道,#genre#
-CETV2,http://119.125.134.150:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN,http://119.125.134.150:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-哈哈炫动,http://119.125.134.150:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-国学,http://119.125.134.150:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-新动漫,http://119.125.134.150:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
-老故事,http://119.125.134.150:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-财富天下,http://119.125.134.150:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV早期教育,http://119.125.134.150:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
