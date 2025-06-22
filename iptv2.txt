@@ -1,6 +1,16 @@
-央视频道2025/06/21 18:33点更新,#genre#
+央视频道2025/06/22 10:30点更新,#genre#
 
 卫视频道,#genre#
+江苏卫视,http://116.117.105.163:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://110.7.131.26:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://110.7.131.34:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://110.7.131.121:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://116.117.105.106:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://110.7.130.181:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://110.7.130.241:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://110.7.130.201:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://110.7.131.123:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://110.7.131.244:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 上海频道,#genre#
 湖南频道,#genre#
 山东频道,#genre#
@@ -15,6 +25,8 @@
 辽宁频道,#genre#
 黑龙江频道,#genre#
 江苏频道,#genre#
+江苏,http://110.7.131.27:9901/tsfile/live/faacts/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏,http://110.7.131.26:9901/tsfile/live/faacts/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北频道,#genre#
 浙江频道,#genre#
 港澳台,#genre#
