@@ -1,4 +1,4 @@
-央视频道2025/07/08 18:30点更新,#genre#
+央视频道2025/07/09 10:12点更新,#genre#
 CCTV1,http://36.40.236.237:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://36.40.236.237:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://36.40.236.237:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -6,11 +6,13 @@ CCTV4,http://36.40.236.237:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&au
 CCTV5,http://36.40.236.237:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://36.40.236.237:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://36.40.236.237:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://36.40.236.237:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
 东南卫视,http://36.40.236.237:9999/tsfile/live/0137_2.m3u8?key=txiptv&playlive=0&authid=0
 内蒙古卫视,http://36.40.236.237:9999/tsfile/live/0109_2.m3u8?key=txiptv&playlive=0&authid=0
 吉林卫视,http://36.40.236.237:9999/tsfile/live/0116_2.m3u8?key=txiptv&playlive=0&authid=0
+天津卫视,http://110.7.130.112:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://36.40.236.237:9999/tsfile/live/0131_2.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://36.40.236.237:9999/tsfile/live/0118_2.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://36.40.236.237:9999/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
@@ -20,6 +22,7 @@ CCTV7,http://36.40.236.237:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&au
 深圳卫视,http://36.40.236.237:9999/tsfile/live/0126_2.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://36.40.236.237:9999/tsfile/live/0128_2.m3u8?key=txiptv&playlive=0&authid=0
 甘肃卫视,http://36.40.236.237:9999/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://110.7.130.112:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://36.40.236.237:9999/tsfile/live/0136_2.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://36.40.236.237:9999/tsfile/live/0143_2.m3u8?key=txiptv&playlive=0&authid=0
 上海频道,#genre#
@@ -38,6 +41,7 @@ CCTV7,http://36.40.236.237:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&au
 辽宁频道,#genre#
 黑龙江频道,#genre#
 江苏频道,#genre#
+江苏,http://110.7.130.112:9901/tsfile/live/faacts/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北频道,#genre#
 浙江频道,#genre#
 港澳台,#genre#
