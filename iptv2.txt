@@ -1,7 +1,23 @@
-央视频道2025/08/13 18:30点更新,#genre#
+央视频道2025/08/14 10:11点更新,#genre#
+CCTV1,http://36.40.236.249:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://36.40.236.249:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://36.40.236.249:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://36.40.236.249:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://221.193.168.161:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://36.40.236.249:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://221.193.168.161:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://36.40.236.249:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://36.40.236.249:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://221.193.168.161:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
-湖南卫视,http://36.40.236.90:9999/tsfile/live/0128_2.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://36.40.236.249:9999/tsfile/live/0116_2.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://36.40.236.249:9999/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://36.40.236.249:9999/tsfile/live/0127_2.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://36.40.236.249:9999/tsfile/live/0139_2.m3u8?key=txiptv&playlive=0&authid=0
+深圳卫视,http://36.40.236.249:9999/tsfile/live/0126_2.m3u8?key=txiptv&playlive=0&authid=0
+甘肃卫视,http://36.40.236.249:9999/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://36.40.236.249:9999/tsfile/live/0136_2.m3u8?key=txiptv&playlive=0&authid=0
 上海频道,#genre#
 湖南频道,#genre#
 山东频道,#genre#
@@ -9,6 +25,7 @@
 山西频道,#genre#
 河南频道,#genre#
 陕西频道,#genre#
+陕西都市青春,http://36.40.236.249:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 广东频道,#genre#
 广西频道,#genre#
 吉林频道,#genre#
