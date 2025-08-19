@@ -1,10 +1,21 @@
-央视频道2025/08/18 18:35更新,#genre#
+央视频道2025/08/19 10:07更新,#genre#
+CCTV2,http://123.10.79.8:808/hls/2/index.m3u8
+CCTV4,http://123.10.79.8:808/hls/4/index.m3u8
 
 卫视频道,#genre#
-北京卫视,http://123.10.79.8:808/hls/36/index.m3u8
-广东卫视,http://123.10.79.8:808/hls/51/index.m3u8
-青海卫视,http://123.10.79.8:808/hls/60/index.m3u8
+宁夏卫视,http://123.10.79.8:808/hls/59/index.m3u8
+山东卫视,http://123.10.79.8:808/hls/39/index.m3u8
+湖南卫视,http://123.10.79.8:808/hls/33/index.m3u8
+甘肃卫视,http://123.10.79.8:808/hls/58/index.m3u8
+辽宁卫视,http://123.10.79.8:808/hls/48/index.m3u8
+重庆卫视,http://123.10.79.8:808/hls/50/index.m3u8
+陕西卫视,http://123.10.79.8:808/hls/57/index.m3u8
 其他频道,#genre#
-早教,http://123.10.79.8:808/hls/92/index.m3u8
-河南公共,http://123.10.79.8:808/hls/24/index.m3u8
+新农村,http://123.10.79.8:808/hls/25/index.m3u8
+河南国际,http://123.10.79.8:808/hls/26/index.m3u8
+河南武术世界,http://123.10.79.8:808/hls/29/index.m3u8
 河南民生,http://123.10.79.8:808/hls/19/index.m3u8
+河南河南收藏天下,http://123.10.79.8:808/hls/28/index.m3u8
+河南法治,http://123.10.79.8:808/hls/20/index.m3u8
+英张西口,http://123.10.79.8:808/hls/102/index.m3u8
+音乐现场,http://123.10.79.8:808/hls/85/index.m3u8
