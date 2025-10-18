@@ -1,6 +1,8 @@
-央视频道2025/10/17 18:28点更新,#genre#
+央视频道2025/10/18 09:52点更新,#genre#
+CCTV1,http://124.228.160.15:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
+浙江卫视,http://124.228.160.15:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 上海频道,#genre#
 湖南频道,#genre#
 山东频道,#genre#
