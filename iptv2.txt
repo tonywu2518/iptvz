@@ -1,9 +1,8 @@
-央视频道2025/10/29 10:06点更新,#genre#
+央视频道2025/10/29 18:30点更新,#genre#
 
 卫视频道,#genre#
 上海频道,#genre#
 湖南频道,#genre#
-金鹰卡通,http://124.228.160.15:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 山东频道,#genre#
 河北频道,#genre#
 山西频道,#genre#
