@@ -1,23 +1,13 @@
-央视频道2025/11/10 18:32点更新,#genre#
-CCTV1,http://36.40.236.47:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://36.40.236.47:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://221.193.168.129:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://221.193.168.129:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://221.193.168.129:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://124.228.160.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+央视频道2025/11/11 10:05点更新,#genre#
 
 卫视频道,#genre#
-山西卫视,http://36.40.236.47:9999/tsfile/live/0118_2.m3u8?key=txiptv&playlive=0&authid=0
-浙江卫视,http://124.228.160.15:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 上海频道,#genre#
 湖南频道,#genre#
-湖南都市,http://124.228.160.15:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 山东频道,#genre#
 河北频道,#genre#
 山西频道,#genre#
 河南频道,#genre#
 陕西频道,#genre#
-陕西都市青春,http://36.40.236.47:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 广东频道,#genre#
 广西频道,#genre#
 吉林频道,#genre#
