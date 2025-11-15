@@ -1,11 +1,6 @@
-央视频道2025/11/14 18:30点更新,#genre#
-CCTV1,http://36.40.236.205:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://36.40.236.205:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+央视频道2025/11/15 10:00点更新,#genre#
 
 卫视频道,#genre#
-内蒙古卫视,http://36.40.236.205:9999/tsfile/live/0109_2.m3u8?key=txiptv&playlive=0&authid=0
-河南卫视,http://36.40.236.205:9999/tsfile/live/0139_2.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://36.40.236.205:9999/tsfile/live/0143_2.m3u8?key=txiptv&playlive=0&authid=0
 上海频道,#genre#
 湖南频道,#genre#
 山东频道,#genre#
