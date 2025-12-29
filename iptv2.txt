@@ -1,6 +1,9 @@
-央视频道2025/12/29 10:28点更新,#genre#
+央视频道2025/12/29 18:32点更新,#genre#
+CCTV3,http://124.228.160.14:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://124.228.160.14:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
+广东卫视,http://124.228.160.14:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 上海频道,#genre#
 湖南频道,#genre#
 山东频道,#genre#
