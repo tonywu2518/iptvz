@@ -1,11 +1,8 @@
-央视频道2026/01/06 10:21点更新,#genre#
-CCTV9,http://124.228.160.14:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+央视频道2026/01/06 18:33点更新,#genre#
 
 卫视频道,#genre#
-湖南卫视,http://124.228.160.14:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 上海频道,#genre#
 湖南频道,#genre#
-金鹰卡通,http://124.228.160.14:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 山东频道,#genre#
 河北频道,#genre#
 山西频道,#genre#
