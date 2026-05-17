@@ -1,6 +1,9 @@
-央视频道2026/05/16 19:09更新,#genre#
+央视频道2026/05/17 12:11更新,#genre#
 
 卫视频道,#genre#
+天津卫视,http://125.42.148.25:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://125.42.148.25:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://221.13.235.171:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -76,12 +79,13 @@
 龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 河南频道,#genre#
-河南戏曲,http://221.13.235.139:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+河南戏曲,http://221.13.234.148:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+河南戏曲,http://221.13.235.171:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 广东频道,#genre#
 上海频道,#genre#
 湖南频道,#genre#
-金鹰卡通,http://221.13.235.139:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://221.13.235.173:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://125.42.148.25:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://221.13.235.171:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 山东频道,#genre#
 河北频道,#genre#
 山西频道,#genre#
@@ -96,6 +100,5 @@
 港澳台,#genre#
 重庆频道,#genre#
 其他频道,#genre#
-民生,http://221.13.235.139:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-电视剧,http://221.13.235.139:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-都市,http://221.13.235.173:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://221.13.235.171:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+都市,http://221.13.234.148:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
