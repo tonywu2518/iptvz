@@ -1,8 +1,6 @@
-央视频道2026/07/04 11:54更新,#genre#
+央视频道2026/07/04 19:42更新,#genre#
 
 卫视频道,#genre#
-天津卫视,http://125.42.148.4:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://125.42.148.4:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://221.13.234.16:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -96,12 +94,4 @@
 港澳台,#genre#
 重庆频道,#genre#
 其他频道,#genre#
-卡酷少儿,http://221.13.234.110:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷少儿,http://221.13.234.16:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-民生,http://221.13.234.110:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-民生,http://221.13.234.16:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-电视剧,http://221.13.234.16:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-电视剧,http://221.13.235.177:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-都市,http://221.13.234.110:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-都市,http://221.13.234.16:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-都市,http://221.13.235.177:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+电视剧,http://221.13.234.110:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
