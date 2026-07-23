@@ -1,11 +1,6 @@
-央视频道2026/07/23 11:37更新,#genre#
+央视频道2026/07/23 19:58更新,#genre#
 
 卫视频道,#genre#
-浙江卫视,http://111.8.242.142:9999/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://111.8.242.127:9999/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://111.8.242.142:9999/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://111.8.242.127:9999/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://111.8.242.142:9999/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -83,12 +78,7 @@
 河南频道,#genre#
 广东频道,#genre#
 上海频道,#genre#
-欢笑剧场,http://111.8.242.127:9999/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-法治天地,http://111.8.242.142:9999/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-都市剧场,http://111.8.242.142:9999/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-都市剧场,http://111.8.242.127:9999/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南频道,#genre#
-湖南经视,http://111.8.242.127:9999/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 山东频道,#genre#
 河北频道,#genre#
 山西频道,#genre#
@@ -103,9 +93,3 @@
 港澳台,#genre#
 重庆频道,#genre#
 其他频道,#genre#
-卡酷少儿,http://221.13.235.117:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-新闻,http://221.13.235.237:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-都市,http://221.13.234.194:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-都市,http://221.13.235.117:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-都市,http://221.13.235.237:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-长沙,http://111.8.242.142:9999/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
