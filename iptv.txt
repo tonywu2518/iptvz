@@ -1,7 +1,6 @@
-央视频道2026/09/05 12:11更新,#genre#
+央视频道2026/09/05 21:23更新,#genre#
 
 卫视频道,#genre#
-海南卫视,http://111.8.242.127:9999/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -79,9 +78,7 @@
 河南频道,#genre#
 广东频道,#genre#
 上海频道,#genre#
-法治天地,http://111.8.242.142:9999/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南频道,#genre#
-金鹰卡通,http://111.8.242.142:9999/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 山东频道,#genre#
 河北频道,#genre#
 山西频道,#genre#
@@ -96,4 +93,3 @@
 港澳台,#genre#
 重庆频道,#genre#
 其他频道,#genre#
-长沙,http://111.8.242.127:9999/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
