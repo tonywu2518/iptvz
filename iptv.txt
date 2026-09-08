@@ -1,4 +1,4 @@
-央视频道2026/09/07 23:44更新,#genre#
+央视频道2026/09/08 12:19更新,#genre#
 
 卫视频道,#genre#
 浙江频道,#genre#
@@ -93,3 +93,5 @@
 港澳台,#genre#
 重庆频道,#genre#
 其他频道,#genre#
+都市,http://221.13.235.231:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+都市,http://221.13.235.175:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
